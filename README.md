@@ -1,6 +1,9 @@
 # Customer Purchase Analysis Project
 
-This project aims to analyze customer purchase behavior for a small online business, with the goal of identifying patterns and insights to improve marketing strategies and increase sales. The analysis is conducted using the R programming language.
+This project aims to analyze customer behavior data from multi category store,
+with the goal of identifying patterns and insights to improve marketing strategies and 
+increase sales. The analysis is conducted using the R programming language.
+dataset from : [Customer Behavior analysis](https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store?select=2019-Nov.csv)
 
 ## Table of Contents
 
@@ -13,7 +16,10 @@ This project aims to analyze customer purchase behavior for a small online busin
 
 ## Introduction
 
-Understanding customer purchase behavior is crucial for businesses to tailor their marketing strategies and improve customer satisfaction. This project leverages data analysis techniques to gain insights into customer purchase patterns, segment customers based on their behavior, and make data-driven recommendations for business growth.
+Understanding customer purchase behavior is crucial for businesses to tailor their 
+marketing strategies and improve customer satisfaction. 
+This project leverages data analysis techniques to gain insights into customer purchase patterns, 
+segment customers based on their behavior, and make data-driven recommendations for business growth.
 
 ## Folder Structure
 
